@@ -1,0 +1,22 @@
+{
+    "camera count": 1,
+    "camera1": {
+        "camera type": "hik",
+        "configuration_file": "",
+        "exposure time": 5000,
+        "trigger": "on"
+    },
+    "communication count": 1,
+    "communication1": {
+        "communication type": "tcp",
+        "ip": "192.168.0.1",
+        "port": 5000,
+        "COM": 1,
+        "Data Bits": 5,
+        "Parity Bit": "None",
+        "Stop Bit": 1,
+        "Baud Rate": 9600,
+        "Flow Control": "RTS",
+        "Data Format": "raw"
+    }
+}
